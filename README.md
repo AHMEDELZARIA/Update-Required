@@ -1,4 +1,4 @@
-# Update-Required
+# Update-Required (VIEW RAW FOR FORMATTED VERSION OF DISCRIPTION)
 Responsible for implementing a system to determine which app update will be installed on various 
 devices depending on their device operating system and time of last app update on their device.
 
